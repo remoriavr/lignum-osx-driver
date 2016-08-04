@@ -1,0 +1,11 @@
+{
+  "name": "LIGNUM Controller Universal Driver",
+  "version": "1.0",
+  "main": "LIGNUM.html",
+  "dependencies": {
+    "noble": "^1.6.0",
+    "noble-device": "^1.4.0",
+    "node-static": "^0.7.8",
+    "xpc-connection": "^0.1.4"
+  }
+}
