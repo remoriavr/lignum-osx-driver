@@ -3,6 +3,7 @@
   "version": "1.0",
   "main": "LIGNUM.html",
   "dependencies": {
+    "bluetooth-hci-socket": "^0.5.0",
     "noble": "^1.6.0",
     "noble-device": "^1.4.0",
     "node-static": "^0.7.8",
